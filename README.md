@@ -1,4 +1,8 @@
-webmap-templates
-================
+Web Map Boilerplates
+====================
 
-Web mapping starter files
+Simple .html files to use when initializing your javascript-based web maps.
+
+##Libraries Included
+
+* **Leaflet** | 0.7
